@@ -1,0 +1,436 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+	xmlns:x="urn:schemas-microsoft-com:office:excel"
+	xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true" />
+<meta name="ProgId" content="Excel.Sheet">
+<meta name="Generator" content="Microsoft Excel">
+<style>
+tr{mso-height-source:auto;mso-ruby-visibility:none}
+col{mso-width-source:userset;mso-ruby-visibility:none}
+br{mso-data-placement:same-cell}
+ruby{ruby-align:left}
+ul{margin-top:0}
+
+table{font-family: "맑은 고딕", "Malgun Gothic", "굴림", "Gulim", "Arial", "Helvetica", sans-serif;font-size:10pt;border-collapse:collapse}
+th,td{border:0.5pt solid #808080;text-align:center;color:windowtext;word-break:break-all}
+th{background:#d9d9d9}
+.x-total th, .x-total td{background:#eee;font-weight:700}
+.x-tit1{width:100%;color:windowtext;font-size:20pt;font-weight:700;text-align:center;text-decoration:underline;text-underline-style:single}
+.x-tit2{margin-bottom:0;color:windowtext;font-size:12pt;font-weight:700;text-align:left;vertical-align:bottom;text-decoration:underline;text-underline-style:single}
+.x-tit3{margin-bottom:0;color:windowtext;font-size:10pt;font-weight:700;text-align:left;vertical-align:bottom}
+.x-right{text-align:right}
+.x-left{text-align:left}
+.x-txt{width:100%;text-align:left}
+.x-txtr{width:100%;margin:0;text-align:right}
+.x-mt0{margin-top:0}
+.x-space{border:0}
+</style>
+<title></title>
+</head>
+<body link="blue" vlink="purple">
+
+
+	<h1 class="x-tit1">세금 신고용 카드이용내역</h1>
+	<h2 class="x-tit2">■ 요약정보</h2>
+	<table>
+		<tbody>
+			
+				
+					<tr>
+						<th scope="row">고객명</th>
+						<td colspan="9" class="x-left">박*남</td>
+					</tr>
+					<tr>
+						<th scope="row">조회기간</th>
+						<td colspan="6" class="x-left">2023.01.01~2023.12.31</td>
+						<th scope="row">총건수</th>
+						<td colspan="2" class="x-right">21건</td>
+					</tr>
+					<tr>
+						<th scope="row">일시불</th>
+						<td colspan="2" class="x-right">1,096,390원</td>
+						<th scope="row">할부</th>
+						<td colspan="3" class="x-right">659,100원</td>
+						<th scope="row">이용금액 총계</th>
+						<td colspan="2" class="x-right">1,755,490원</td>
+					</tr>
+				
+				
+					
+		</tbody>
+	</table>
+	
+	<h2 class="x-tit2">■ 이용내역 상세</h2>
+	<table>
+		<thead>
+			<tr>
+				<th scope="col">접수일자</th>
+				<th scope="col">카드번호</th>
+				<th scope="col">매출일자</th>
+				<th scope="col">승인번호</th>
+				<th scope="col">매출금액</th>
+				
+					<th scope="col">부가세</th>	
+				
+				<th scope="col">할부개월</th>
+				<th scope="col">가맹점번호</th>
+				<th scope="col">사업자번호</th>
+				<th scope="col">가맹점명</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+			<tr>
+				<td>2023.09.01</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.08.31</td>
+				<td>42394001</td>
+				<td class="x-right">14,100</td>
+				
+					<td class="x-right">450</td>
+								
+				<td class="x-right"></td>
+				<td>995-638-4835</td>
+				<td>415-45-00595</td>
+				<td class="x-left">가산홈마트</td>
+			</tr>
+			
+			<tr>
+				<td>2023.09.05</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.09.02</td>
+				<td>41210003</td>
+				<td class="x-right">11,560</td>
+				
+					<td class="x-right">1,051</td>
+								
+				<td class="x-right"></td>
+				<td>997-842-6988</td>
+				<td>809-81-01574</td>
+				<td class="x-left">씨제이올리브네트웍스(주)가산디지털단지역</td>
+			</tr>
+			
+			<tr>
+				<td>2023.09.04</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.09.02</td>
+				<td>62793002</td>
+				<td class="x-right">5,760</td>
+				
+					<td class="x-right">524</td>
+								
+				<td class="x-right"></td>
+				<td>921-683-9837</td>
+				<td>119-09-55520</td>
+				<td class="x-left">GS25가리봉역점</td>
+			</tr>
+			
+			<tr>
+				<td>2023.09.03</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.09.02</td>
+				<td>55600004</td>
+				<td class="x-right">145,000</td>
+				
+					<td class="x-right">13,181</td>
+								
+				<td class="x-right"></td>
+				<td>997-974-0139</td>
+				<td>383-86-00307</td>
+				<td class="x-left">(주)최우영스시</td>
+			</tr>
+			
+			<tr>
+				<td>2023.09.04</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.09.03</td>
+				<td>42743005</td>
+				<td class="x-right">159,050</td>
+				
+					<td class="x-right">14,459</td>
+								
+				<td class="x-right"></td>
+				<td>910-799-9674</td>
+				<td>119-20-97428</td>
+				<td class="x-left">준오헤어</td>
+			</tr>
+			
+			<tr>
+				<td>2023.09.12</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.09.11</td>
+				<td>45679006</td>
+				<td class="x-right">7,000</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>998-407-2048</td>
+				<td>107-86-14075</td>
+				<td class="x-left">LG전자 구독료</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.01</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.09.30</td>
+				<td>58552008</td>
+				<td class="x-right">5,000</td>
+				
+					<td class="x-right">454</td>
+								
+				<td class="x-right"></td>
+				<td>993-322-8238</td>
+				<td>248-86-00926</td>
+				<td class="x-left">한국후지필름 (주)필름한잔 롯데시네마 청량리점</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.01</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.09.30</td>
+				<td>58368009</td>
+				<td class="x-right">104,300</td>
+				
+					<td class="x-right">9,481</td>
+								
+				<td class="x-right"></td>
+				<td>994-089-2521</td>
+				<td>447-85-02053</td>
+				<td class="x-left">편백집 청량리역사점</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.04</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.09.30</td>
+				<td>30937007</td>
+				<td class="x-right">19,500</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>998-581-7626</td>
+				<td>313-87-00979</td>
+				<td class="x-left">롯데시네마 청량리_티켓 외</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.02</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.10.01</td>
+				<td>58947010</td>
+				<td class="x-right">15,160</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>996-555-8877</td>
+				<td>206-86-50913</td>
+				<td class="x-left">노브랜드 마리오아울렛점</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.03</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.10.02</td>
+				<td>38763011</td>
+				<td class="x-right">22,110</td>
+				
+					<td class="x-right">409</td>
+								
+				<td class="x-right"></td>
+				<td>995-638-4835</td>
+				<td>415-45-00595</td>
+				<td class="x-left">가산홈마트</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.03</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.10.02</td>
+				<td>20239012</td>
+				<td class="x-right">5,900</td>
+				
+					<td class="x-right">536</td>
+								
+				<td class="x-right"></td>
+				<td>995-638-4835</td>
+				<td>415-45-00595</td>
+				<td class="x-left">가산홈마트</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.05</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.10.04</td>
+				<td>62418013</td>
+				<td class="x-right">23,250</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>995-638-4835</td>
+				<td>415-45-00595</td>
+				<td class="x-left">가산홈마트</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.11</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.10.09</td>
+				<td>50545014</td>
+				<td class="x-right">302,100</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right">2</td>
+				<td>915-738-7028</td>
+				<td>112-81-15877</td>
+				<td class="x-left">마리오아울렛주식회사</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.11</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.10.10</td>
+				<td>41490015</td>
+				<td class="x-right">35,900</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>998-407-2048</td>
+				<td>107-86-14075</td>
+				<td class="x-left">LG전자 구독료</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.14</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.10.13</td>
+				<td>39076016</td>
+				<td class="x-right">2,000</td>
+				
+					<td class="x-right">182</td>
+								
+				<td class="x-right"></td>
+				<td>993-320-7456</td>
+				<td>483-50-00705</td>
+				<td class="x-left">메가엠지씨커피 가산리더스타워점</td>
+			</tr>
+			
+			<tr>
+				<td>2023.10.23</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.10.21</td>
+				<td>43597017</td>
+				<td class="x-right">300,000</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>915-738-7028</td>
+				<td>112-81-15877</td>
+				<td class="x-left">마리오아울렛주식회사</td>
+			</tr>
+			
+			<tr>
+				<td>2023.11.11</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.11.10</td>
+				<td>66928018</td>
+				<td class="x-right">35,900</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>998-407-2048</td>
+				<td>107-86-14075</td>
+				<td class="x-left">LG전자 구독료</td>
+			</tr>
+			
+			<tr>
+				<td>2023.11.18</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.11.17</td>
+				<td>66225019</td>
+				<td class="x-right">357,000</td>
+				
+					<td class="x-right">32,454</td>
+								
+				<td class="x-right">3</td>
+				<td>910-799-9674</td>
+				<td>119-20-97428</td>
+				<td class="x-left">준오헤어</td>
+			</tr>
+			
+			<tr>
+				<td>2023.12.12</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.12.11</td>
+				<td>89822667</td>
+				<td class="x-right">35,900</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>998-407-2048</td>
+				<td>107-86-14075</td>
+				<td class="x-left">LG전자 구독료</td>
+			</tr>
+			
+			<tr>
+				<td>2023.12.19</td>
+				<td>9409-****-****-*095</td>
+				<td>2023.12.17</td>
+				<td>25928020</td>
+				<td class="x-right">149,000</td>
+				
+					<td class="x-right">0</td>
+								
+				<td class="x-right"></td>
+				<td>915-738-7028</td>
+				<td>112-81-15877</td>
+				<td class="x-left">마리오아울렛주식회사</td>
+			</tr>
+			
+			<tr class="x-total">
+				<th scope="row">합계</th>
+				
+					
+						<td colspan="9" class="x-right">1,755,490원</td>
+					
+					
+						
+			</tr>
+		</tbody>
+	</table>
+
+</body>
+</html>
+
