@@ -11,3 +11,5 @@ w
 G.idea/sonarlint/issuestore/d/d/dd86fcda8d9a81efec232b6cc848c46959c402cc,9\c\9cc734308b19a21f06a327df882a4b3e19ca9fbc
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+i
+92023-2024-KALWBS/02.개인정보/박경남 API 명세.txt,b\2\b279fea7d29fbee28a71e9dbfdcf43ed44ad54f4
